@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Woorden Trainer</title>
+    <title>Woorden Trainer Turks</title>
     <link rel="stylesheet" href="style.css">
     <script defer>
         const requestUrl = 'woordenlijst.json';
@@ -21,7 +21,6 @@
         function sendRequest() {
             requestJSON(requestUrl);
         }
-
 
         function processResponse(response) {
 
@@ -58,6 +57,18 @@
             var randomGetal = Math.floor(Math.random() * runner);
             box1.innerHTML  = Object.keys(woordenlijst)[randomGetal];
             box2.innerHTML  = Object.values(woordenlijst)[randomGetal];
+
+                //vakje zwart maken
+                //als turks nederlands dan box 1 zwart
+                if (Keuze.innerHTML=="NL-TR") {
+                //als ned turks dan box 2 zwart
+                box2.className = '';
+                box2.classList.add("zwart");
+                }else if ( Keuze.innerHTML="TR-NL"){
+                    box1.className = '';
+                    box1.classList.add("zwart");
+
+                }
             }
 
             //SWITCH NL - TR
@@ -104,9 +115,8 @@
 
     <button id="next" class="button">&#x25B6;
     </button>
-    <footer>
-        <p class="ikke">© Tmra 2023</p>
-
-      </footer>
+    <footer class="ikke">
+        © Tmra 2023
+    </footer>
 </body>
 </html>

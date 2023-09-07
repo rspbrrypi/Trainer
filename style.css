@@ -4,7 +4,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap:15px;
+    gap:20px;
     font-family: 'Courier New', Courier, monospace;
     height: 100%;
 }
@@ -18,9 +18,13 @@ body {
 }
 
 box {
+    display: flex;
+
+    align-items:center;
     width: 300px;
+    height: 60px;
     border: 15px solid pink;
-    padding: 50px;
+    padding: 25px;
     margin: 20px;
     font-weight: bolder;
     font-size: xx-large;
@@ -127,7 +131,6 @@ box {
 #NLofTR {
     font-weight: bold;
     color: darkslategray;
-
 }
 
 .ikke {
@@ -139,5 +142,18 @@ box {
 
     position: absolute;
     bottom: 0px;
-
 }
+
+@media screen and (max-width: 600px) {
+    body {
+      gap: 10px;
+    }
+    box {
+        width: 300px;
+        padding: 20px;
+        margin: 10px;
+        font-weight: bold;
+        font-size: x-large;
+
+    }
+  }
