@@ -137,21 +137,51 @@ box {
     font-weight: bolder;
     font-size: smaller;
     color: Lightsteelblue;
-    /*display: block;
-    text-align: center;*/
-
     position: absolute;
     bottom: 0px;
 }
 
-@media screen and (max-width: 600px) {
+
+
+
+@media screen and (max-width: 300px) {
+    body {
+      gap: 5px;
+    }
+    box {
+        max-width: 200px;
+        padding: 10px;
+        margin: 5px;
+        font-weight: bold;
+        font-size: x-large;
+
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    body {
+      gap: 5px;
+    }
+    box {
+        max-width: 250px;
+        padding: 10px;
+        margin: 5px;
+        font-weight: bold;
+        font-size: x-large;
+
+    }
+  }
+
+
+
+  @media screen and (max-width: 600px) {
     body {
       gap: 10px;
     }
     box {
         width: 300px;
-        padding: 20px;
-        margin: 10px;
+        padding: 15px;
+        margin: 15px;
         font-weight: bold;
         font-size: x-large;
 

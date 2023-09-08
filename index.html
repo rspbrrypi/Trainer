@@ -26,7 +26,7 @@
 
             let woordenlijst = JSON.parse(response);
             var runner = Object.keys(woordenlijst).length
-            var randomGetal = Math.floor(Math.random() * runner);
+            var randomGetal = Math.floor(Math.random() * (runner + 1));
 
             const box1 = document.getElementById("NL");
             box1.innerHTML  = Object.keys(woordenlijst)[randomGetal];
