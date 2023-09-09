@@ -43,7 +43,7 @@
     "vader van" : "babası",
     "moeder van" : "annesi",
     "echtgeno(t)e" : "eş",
-    "altijd" : "her zaman",
+    "altijd 1" : "her zaman",
     "ook" : "da /de",
     "beide " : "ikisi de",
     "beiden (tegelijk)" : "hem",
@@ -93,5 +93,87 @@
     "niemand" : "hiç kimse yok",
     "geen een van hen" : "hiç biri",
     "veel 2" : "fazla",
-    "absoluut" : "kesinlikle"
+    "absoluut" : "kesinlikle",
+    "niet meer" : "artık",
+    "speciaal" : "özellikle",
+    "taal" : "dil",
+    "mooier" : "daha güzel",
+    "altijd": "hep",
+    "nogal": "oldukça" ,
+    "grieks" : "yunanca" ,
+    "zij kennen": "tanıyorlar" ,
+    "vlag" : "bayrak" ,
+    "alles" : "her şeyi" ,
+    "het oosten" : "doğu",
+    "mensen" : "kişi",
+    "een beetje" : "az",
+    "land" : "ülke" ,
+    "praten" : "konuşmak" ,
+    "eten" : "yemek" ,
+    "zien" : "görmek" ,
+    "schrijven": "yazmak" ,
+    "drinken" : "içmek" ,
+    "ik haat" : "nefret ediyorum" ,
+    "gaan" : "gitmek" ,
+    "blijven" : "kalmak" ,
+    "kopen" : "almak" ,
+    "zijn" : "olmak" ,
+    "vergeten" : "unutmak" ,
+    "betekenen" : "demek",
+    "luisteren" : "dinlemek" ,
+    "vinden" : "bulmak",
+    "eiland" : "ada",
+    "liefhebben" : "sevmek" ,
+    "is niet goed" : "için iyi değil",
+    "normaliter" : "çoğunlukla" ,
+    "Frankrijk" : "Fransa" ,
+    "uit Engeland" : "Ingiltereli" ,
+    "Duitsland" : "Almanya" ,
+    "ik ben niet" : "değilim" ,
+    "patient" : "hasta" ,
+    "Griekenland" : "Yunanistan" ,
+    "strand" : "kumsal" ,
+    "Spanje" : "İspanya" ,
+    "Italie" : "İtalya" ,
+    "rijden" : "sürmek" ,
+    "ezel": "eşeğe" ,
+    "rijden 2" : "kullanmak",
+    "rijden (paard)" : "dinmek" ,
+    "halte" : "dura" ,
+    "gebruiken" : "kullanmak" ,
+    "reizen" : "seyahat" ,
+    "kaart": "harita",
+    "auto" : "araba" ,
+    "fiets" : "bisiklet" ,
+    "gids" : "rehberi" ,
+    "(het) meer" : "göl" ,
+    "missen" : "kaçırmak" ,
+    "het schip" : "gemiyi" ,
+    "kant" : "taraf" ,
+    "toerist" : "turist"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
