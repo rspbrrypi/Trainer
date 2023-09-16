@@ -7,6 +7,9 @@ body {
     gap:20px;
     font-family: 'Courier New', Courier, monospace;
     height: 100%;
+
+    margin: 0;
+   padding: 0;
 }
 
 .flex-container {
@@ -137,10 +140,14 @@ box {
     font-weight: bolder;
     font-size: smaller;
     color: Lightsteelblue;
-    position: absolute;
-    bottom: 0px;
+    text-align: center;
 }
 
+footer {
+
+  bottom: 0;
+  width: 100%;
+}
 
 
 
