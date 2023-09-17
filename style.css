@@ -1,15 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body {
-    box-sizing: border-box;
+    height: 100vh;
+    width: 100vw;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     gap:20px;
     font-family: 'Courier New', Courier, monospace;
-    height: 100%;
-
-    margin: 0;
-   padding: 0;
 }
 
 .flex-container {
@@ -22,7 +25,6 @@ body {
 
 box {
     display: flex;
-
     align-items:center;
     width: 300px;
     height: 60px;
@@ -83,7 +85,7 @@ box {
     height: 0;
   }
 
-  /* The slider */
+  /* the SLIDER  */
   .slider {
     position: absolute;
     cursor: pointer;
@@ -130,6 +132,11 @@ box {
   .slider.round:before {
     border-radius: 50%;
   }
+
+
+/* END TOGGLE SWITCH */
+
+
 
 #NLofTR {
     font-weight: bold;
