@@ -1,124 +1,45 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Woorden Trainer Turks</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <script defer>
-        const requestUrl = 'woordenlijst.json';
+    <title>Turktrainer</title>
+    <script src="script.js" defer></script>
 
-        function requestJSON(url) {
-            let request = new XMLHttpRequest();
-            request.open('GET', url);
-            request.send();
-            request.onload = function () {
-                let response = request.response;
-                processResponse(response);
-            }
-        }
-
-        function sendRequest() {
-            requestJSON(requestUrl);
-        }
-
-        function processResponse(response) {
-
-            let woordenlijst = JSON.parse(response);
-            var runner = Object.keys(woordenlijst).length
-            var randomGetal = Math.floor(Math.random() * (runner + 1));
-
-            const box1 = document.getElementById("NL");
-            box1.innerHTML  = Object.keys(woordenlijst)[randomGetal];
-
-            const box2 = document.getElementById("TR");
-            box2.innerHTML  = Object.values(woordenlijst)[randomGetal];
-
-            box2.classList.add("zwart");
-            box2.addEventListener("click", boxcolor2);
-
-            box1.classList.add("wit");
-            box1.addEventListener("click", boxcolor1);
-
-            //change boxcolor
-            function boxcolor2() {
-                box2.classList.toggle("wit");
-            }
-
-            function boxcolor1() {
-                box1.classList.toggle("zwart");
-            }
-
-           //Button Volgende
-           const volgende = document.getElementById("next");
-           volgende.addEventListener("click", randomrunner);
-
-           function randomrunner() {
-            var randomGetal = Math.floor(Math.random() * runner);
-            box1.innerHTML  = Object.keys(woordenlijst)[randomGetal];
-            box2.innerHTML  = Object.values(woordenlijst)[randomGetal];
-
-                //vakje zwart maken
-                //als turks nederlands dan box 1 zwart
-                if (Keuze.innerHTML=="NL-TR") {
-                //als ned turks dan box 2 zwart
-                box2.className = '';
-                box2.classList.add("zwart");
-                }else if ( Keuze.innerHTML="TR-NL"){
-                    box1.className = '';
-                    box1.classList.add("zwart");
-
-                }
-            }
-
-            //SWITCH NL - TR
-            const switchElem  = document.getElementById("toggle");
-            const Keuze = document.getElementById("NLofTR");
-            Keuze.innerHTML="NL-TR";
-            switchElem.addEventListener("click", btntog);
-
-            //TOGGLEBTN
-            function btntog() {
-
-                if (Keuze.innerHTML=="NL-TR"){
-                    Keuze.innerHTML="TR-NL";
-                    box1.className = '';
-                    box2.className = '';
-                    box1.classList.add("zwart");
-                } else if ( Keuze.innerHTML="TR-NL"){
-                    Keuze.innerHTML="NL-TR";
-                    box1.className = '';
-                    box2.className = '';
-                    box2.classList.add("zwart");
-                }
-            }
-
-
-        }
-
-        sendRequest();
-        </script>
 </head>
 <body>
     <h1>Woorden Trainer</h1>
-    <container>
-        <div id="NLofTR"></div>
-        <label class="switch">
-            <input type="checkbox" id="toggle">
-            <span class="slider round"></span>
-         </label>
-    </container>
 
-    <div class="flex-container">
-        <box id="NL"></box>
-        <box id="TR"></box>
-    </div>
+    <select id="kiesOefening">
+      <option value="none" selected disabled>Kies een lijst:</option>
+      <option>standaard</option>
+      <option>nieuwste</option>
+      <option>werkwoorden</option>
+      <option>oudste</option>
+    </select>
 
-    <button id="next" class="button">&#x25B6;
-    </button>
-    <footer>
-        <p class="ikke">© Tmra 2023</p>
-    </footer>
+
+<container>
+    <div id="NLofTR"></div>
+    <label class="switch">
+        <input type="checkbox" id="toggle">
+        <span class="slider round"></span>
+    </label>
+</container>
+
+
+<div class="flex-container">
+    <box id="NL"></box>
+    <box id="TR"></box>
+</div>
+
+<button id="next" class="button">&#x25B6;
+</button>
+<footer>
+    <p class="ikke">© Tmra 2023</p>
+     <!--versie 1.0  met woordenlijstkeuze -->
+</footer>
 </body>
 </html>
