@@ -49,15 +49,16 @@
 
     </select>
  <script>
-        let retString = localStorage.getItem("wLists")
-        let retArray = JSON.parse(retString)
+        let retString = localStorage.getItem("wLists");
+        console.log(retString + "retstring");
+        let retArray = JSON.parse(retString);
         console.log(retArray);
         let selectElem = document.getElementById("kiesOefening");
         retArray.forEach(filename => {
             console.log(filename);
             let optionElem = document.createElement("option");
             optionElem.innerText = filename
-            selectElem.appendChild(optionElem)
+            selectElem.appendChild(optionElem);
         });
 </script>
 
