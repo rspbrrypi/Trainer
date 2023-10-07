@@ -7,8 +7,7 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <title>Turktrainer</title>
     <script src="script.js" defer></script>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <script>
         // lees dir & push wl
        var fileNames = new Array();
@@ -28,23 +27,23 @@
         });
 
 
-        function openFile(file) {
-            var extension = file.substr( (file.lastIndexOf('.') +1) );
-            switch(extension) {
-                case 'json':
-                    return true;
-                default:
-                    return false;
-            }
-        };
-    </script>
+    function openFile(file) {
+        var extension = file.substr( (file.lastIndexOf('.') +1) );
+        switch(extension) {
+            case 'json':
+                return true;
+            default:
+                return false;
+        }
+    };
+</script>
 </head>
 <body>
     <h1>Woorden Trainer</h1>
 
     <select id="kiesOefening">
       <option value="none" selected disabled>Kies een lijst:</option>
-      <!-- hier woordenlijsten  -->
+      <!-- haal woordenlijsten dynamisch op -->
 
 
 
@@ -52,8 +51,10 @@
  <script>
         let retString = localStorage.getItem("wLists")
         let retArray = JSON.parse(retString)
+        console.log(retArray);
         let selectElem = document.getElementById("kiesOefening");
         retArray.forEach(filename => {
+            console.log(filename);
             let optionElem = document.createElement("option");
             optionElem.innerText = filename
             selectElem.appendChild(optionElem)
@@ -79,7 +80,7 @@
 </button>
 <footer>
     <p class="ikke">© Tmra 2023</p>
-     <!--versie 2.0  leest woordenlijst automatisch in -->
+     <!--versie 3.0 met woordenlijstkeuze en autom inlezen -->
 </footer>
 </body>
 </html>
