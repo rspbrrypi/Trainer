@@ -8,17 +8,56 @@
     <title>Turktrainer</title>
     <script src="script.js" defer></script>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script><script>
+        // lees dir & push wl
+       var fileNames = new Array();
+
+        $.ajax({
+        url: "wordlists/",
+        success: function(data){
+            $(data).find("td > a").each(function(){
+                if(openFile($(this).attr("href"))){
+                    fileNames.push($(this).attr("href"));
+                    localStorage.clear();
+                    let string = JSON.stringify(fileNames);
+                    localStorage.setItem("wLists", string);
+                }
+            });
+        }
+        });
+
+
+    function openFile(file) {
+        var extension = file.substr( (file.lastIndexOf('.') +1) );
+        switch(extension) {
+            case 'json':
+                return true;
+            default:
+                return false;
+        }
+    };
+      </script>
 </head>
 <body>
     <h1>Woorden Trainer</h1>
 
     <select id="kiesOefening">
       <option value="none" selected disabled>Kies een lijst:</option>
-      <option>standaard</option>
-      <option>nieuwste</option>
-      <option>werkwoorden</option>
-      <option>oudste</option>
+      <!-- hier woordenlijsten  -->
+
+
+
     </select>
+ <script>
+        let retString = localStorage.getItem("wLists")
+        let retArray = JSON.parse(retString)
+        let selectElem = document.getElementById("kiesOefening");
+        retArray.forEach(filename => {
+            let optionElem = document.createElement("option");
+            optionElem.innerText = filename
+            selectElem.appendChild(optionElem)
+        });
+</script>
 
 
 <container>
@@ -39,7 +78,7 @@
 </button>
 <footer>
     <p class="ikke">© Tmra 2023</p>
-     <!--versie 1.0  met woordenlijstkeuze -->
+     <!--versie 2.0  leest woordenlijst automatisch in -->
 </footer>
 </body>
 </html>
