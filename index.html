@@ -8,7 +8,8 @@
     <title>Turktrainer</title>
     <script src="script.js" defer></script>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script><script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
         // lees dir & push wl
        var fileNames = new Array();
 
@@ -27,16 +28,16 @@
         });
 
 
-    function openFile(file) {
-        var extension = file.substr( (file.lastIndexOf('.') +1) );
-        switch(extension) {
-            case 'json':
-                return true;
-            default:
-                return false;
-        }
-    };
-      </script>
+        function openFile(file) {
+            var extension = file.substr( (file.lastIndexOf('.') +1) );
+            switch(extension) {
+                case 'json':
+                    return true;
+                default:
+                    return false;
+            }
+        };
+    </script>
 </head>
 <body>
     <h1>Woorden Trainer</h1>
