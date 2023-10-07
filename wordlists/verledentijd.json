@@ -1,0 +1,123 @@
+{
+    "ik begreep" : "anladım",
+    "wij begrepen" : "anladık",
+
+    "ik belde" : "aradım",
+    "hij belde" : "aradı" ,
+    "zij belden me" : "onlar beni aradılar" ,
+    "hij verminderde" : "azaldı" ,
+    "(hij) nam toe" : "arttı" ,
+
+    "ik vertrok" : "ayrıldım" ,
+    "hij maakte het uit" : "ayrıldı" ,
+
+    "ik hou van" : "beğendim" ,
+    "je vond leuk" : "beğendin" ,
+    "heb je gevonden" : "buldun" ,
+    "hij vond" : "buldu",
+
+    "ik begon" :"başladım",
+    "hij begon" : "başladı" ,
+    "wij zijn niet begonnen" : "başlamadık",
+
+    "ik wachtte" : "bekledim" ,
+    "hij wachtte" : "bekledi" ,
+
+    "hij eindigde niet" : " bitmedi" ,
+
+    "ik nodigde uit" : "çağırdım",
+    "hij belde 2" : "çağırdı" ,
+
+
+
+
+    "ik haalde" : "çıkardım" ,
+    "we namen/ haalden" : "çıkardık" ,
+
+    "jij zei" : "dedin" ,
+
+    "hij was niet" : "değildi" ,
+    "zij waren niet" : "değillerdi",
+
+    "ik veranderde" : "değiştim" ,
+    "zij veranderden" : "değiştiler",
+
+    "ik werd geboren" : "doğdum",
+    "jij draaide" : "döndünüz" ,
+    "hij stopte" : "durdurdu" ,
+    "jij viel" : "duştün" ,
+    "hij viel" : "düştü" ,
+
+    "ik ging niet" : "gitmedim",
+    "jij ging niet" : "gitmedin",
+    "jij ging" : "gittin" ,
+    "zij gingen niet" : "gitmediler",
+
+    "ik kwam" :"geldim",
+    "ik kwam niet" :"gelmedim",
+    "hij kwam niet" : "gelmedi",
+    "is ontwikkeld" : "gelişti" ,
+
+
+    "heb je gezien" : "gördün" ,
+    "zij zag" : "gördü" ,
+    "het leek /hij verscheen" : "göründü" ,
+
+    "ik dronk" : "içtim",
+
+    "jij geloofde" : "inandın" ,
+    "we geloofden" : "inandık" ,
+
+    "ik verdwaalde" : "kayboldum"  ,
+    "hij is kwijt" : "kayboldu" ,
+    "ik heb verloren" : "kaybettim" ,
+    "hij heeft verloren" : "kaybetti" ,
+
+    "jij stond op" : "kalktın" ,
+    "hij stond op" : "kalktı" ,
+
+
+    "hij won" : "kazandı" ,
+
+    "jij hebt niet gesproken" : "konuşmadın",
+    "hij sprak niet" : "konuşmadı",
+
+    "ik zette" : "koydum" ,
+    "hij heeft gelegd" : "koydu" ,
+
+    "wij hebben gedekt (tafel)" : "kurduk" ,
+    "Ik heb gezet (de klok)" : "kurdum" ,
+
+    "ik leerde" :"öğrendim",
+    "hij stierf" : "öldü" ,
+
+    "ik was niet" : "olmadım",
+    "ik zat" : "oturdum" ,
+    "hij zat" : "oturdu" ,
+
+
+    "ik hield niet van" : "sevmedim" ,
+    "hij hield niet van" : "sevmedi" ,
+    "we hielden van" : "sevdik" ,
+
+    "ik droeg" : " taşıdım" ,
+    "hij droeg" : "taşıdı" ,
+
+    "ik vergat" : "unuttum" ,
+    "vergat jij?" : "unuttun mu?" ,
+    "ik ben niet vergeten" : "unutmadım" ,
+    "wij vergaten niet" :"unutmadık",
+
+    "ik sliep niet" : "uyumadım" ,
+
+    "waren /had" : "vardı" ,
+    "jij gaf niet": "vermedin",
+
+    "wij maakten" : "yaptık" ,
+    "jij leefde" : "yaşadın" ,
+    "wij leefden" : "yaşadık" ,
+    "je ging naar bed" : "yattın" ,
+    "hij bleef in bed" : "yattı"
+
+
+}

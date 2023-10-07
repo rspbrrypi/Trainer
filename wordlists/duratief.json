@@ -1,0 +1,75 @@
+{
+
+    "wij openen niet" : "açmıyoruz",
+    "jullie openen" : "açıyorsunuz",
+
+
+    "ik begrijp" : "anlıyorum" ,
+    "hij begrijpt" : "anlıyor",
+    "hij begrijpt niet" : "anlamıyor" ,
+
+    "ik ben aan het uitleggen" : "anlatıyorum " ,
+    "jij legt uit" : "anlatıyorsun",
+
+    "ik ben aan het bellen" : "arıyorum",
+    "zij zijn aan het kijken/ zoeken naar" : "arıyorlar" ,
+
+    "hij begint niet" : "başlamıyor" ,
+
+    "hij eindigt" :"bitiyor" ,
+    "hij eindigt niet" : "bitmiyor" ,
+
+    "hij lijkt op" : "benziyor",
+
+    "ik werk niet" : "çalışmıyorum" ,
+    "wij zijn niet aan het werken" : "çalışmıyoruz" ,
+    "zij zijn aan het werken" : "çalışıyorlar",
+
+
+    "ik neem" : "çekiyorum" ,
+    "jullie nemen" : "çekiyorsunuz" ,
+
+    "hij draait niet" : "dönmüyor" ,
+    "we draaien" : "dönüyoruz",
+
+    "ik sta" : "duruyorum" ,
+    "jij staat" : "duruyorsun" ,
+    "hij staat" : " duruyor" ,
+
+    "ik breng" : "getiriyorum" ,
+    "hij brengt" : "getiriyor" ,
+
+    "hij betreedt" : "giriyor",
+    "hij komt niet in" : "girmiyor",
+
+
+    "ik spreek niet" : " konuşmuyorum",
+    "hij spreekt niet" : "konuşmiyor",
+    "hij is aan het praten" : "konuşuyor",
+
+    "ik ben bang" : "korkuyorum" ,
+    "hij is niet bang" : "korkmuyor" ,
+
+    "hij woont" : "oturuyor" ,
+    "hij woont/zit/leeft niet" : "oturmuyor",
+    "wij wonen" : "oturuyoruz" ,
+
+
+
+    "is aan het lesgeven" :"öğretiyor",
+
+    "hij vraagt" : "soruyor" ,
+    "we vragen niet" : "sormuyoruz",
+
+    "wij houden" : "tutuyoruz" ,
+
+    "ik geef" : "veriyorum" ,
+    "jij geeft niet" : "vermiyorsun" ,
+    "jullie geven" : "veriyorsunuz" ,
+    "zij geven" : "veriyorlar",
+
+    "hij leeft" : "yaşıyor" ,
+    "jij leeft" : "yaşıyorsun"
+
+
+}
