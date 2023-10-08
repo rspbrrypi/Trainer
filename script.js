@@ -1,10 +1,7 @@
 //dropdown
 let select = document.querySelector('select');
 let startOption = select.selectedIndex = 1;
-//let lijstKeuze = "wordlists/" + select.value + ".json";
-let lijstKeuze = "wordlists/" + select.value;
-console.log(lijstKeuze);
-
+let lijstKeuze = "wordlists/" + select.value + ".json";
 const box1 = document.getElementById("NL");
 const box2 = document.getElementById("TR");
 const volgende = document.getElementById("next");
@@ -79,9 +76,8 @@ fetch(lijstKeuze)
 //WL onchange
 select.addEventListener('change', () => {
     let selectOption = select.value;
-    //lijstKeuze = "wordlists/" + `${selectOption}.json`;
-    lijstKeuze = "wordlists/" + `${selectOption}`;
-    //console.log(lijstKeuze);
+    lijstKeuze = "wordlists/" + `${selectOption}.json`;
+    console.log(lijstKeuze);
 
     fetch(lijstKeuze)
         .then(function (response) {
