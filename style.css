@@ -25,15 +25,17 @@ body {
 box {
     display: flex;
     align-items:center;
-    width: 300px;
-    height: 100px;
+    width: 400px;
+    height: 133px;
     border: 15px solid pink;
     padding: 25px;
     margin: 20px;
     font-weight: bolder;
     font-size: x-large;
-    word-wrap: break-word;
-    display: inline-block;
+    inline-size: 350px;
+    overflow-wrap: break-word;
+    hyphens: auto;
+
 }
 
 select {
@@ -170,7 +172,10 @@ footer {
         margin: 5px;
         font-weight: bold;
         font-size: x-large;
-        word-wrap: break-word;
+        inline-size: 180px;
+        overflow-wrap: break-word;
+        hyphens: auto;
+        
     }
   }
 
@@ -182,8 +187,10 @@ footer {
         margin: 5px;
         font-weight: bold;
         font-size: x-large;
-        word-wrap: break-word;
-        display: inline-block;
+        inline-size: 230px;
+        overflow-wrap: break-word;
+        hyphens: auto;
+       
     }
   }
 
@@ -197,7 +204,9 @@ footer {
       margin: 15px;
       font-weight: bold;
       font-size: x-large;
-      word-wrap: break-word;
-      display: inline-block;
+      inline-size: 270px;
+      overflow-wrap: break-word;
+      hyphens: auto;
+      
     }
   }
