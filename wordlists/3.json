@@ -1,0 +1,232 @@
+{
+
+    "hij las altijd" : "okurdu",
+    "je zou lezen/ je las altijd" : "okurdun",
+    "hij zou zijn geweest" : "olurdu",
+    "wij zouden zijn geweest" : "olurduk",
+    "ik zou drinken" : "içerdim",
+    "je zou drinken" : "içerdin",
+    "ik zou doen" : " yapardım",
+    "hij zou doen" : " yapardı",
+    "zij zouden doen"  : "yaparlardı",
+    "ik zou houden van" : "severdim" ,
+    "jij zou houden van" : "severdin" ,
+    "hij zou houden van" : "severdi" ,
+    "ik at (altijd)" :"yerdim" ,
+    "wij zouden eten/ we aten altijd" : "yerdik",
+
+    "vroeger": " eskiden " ,
+    "we dronken (altijd)" :" içerdik",
+
+    "laten we kopen /nemen" :"alalım" ,
+    "laten we praten" :"konuşalım",
+
+    "tijdens het rondwandelen" : "dolaşırken ",
+    "tijdens het weggaan" : "giderken",
+    "tijdens het formeren" :"oluştururken" ,
+    "tijdens het spelen" :"oynarken",
+    "tijdens het liften" :" kaldırırken",
+    "tijdens het koken":"pişirirken " ,
+    "tijdens het zwemmen" :"yüzerken" ,
+    "tijdens het werk" : " çalışırken",
+    "tijdens het praten" : "konuşurken" ,
+    "tijdens ... kindertijd" : "Çocukken" ,
+
+    "wanneer in naam stad" : "naam stad'dayken" ,
+    "toen ... jong waren" : "gençken " ,
+    "terwijl ... werkloos was" : "İşsizken ",
+    "toen ik ... jaar oud was" : "yaşındayken" ,
+    "als je niet" : " değilken " ,
+
+    "parlementslid":"milletvekili" ,
+    "minister":"bakan",
+    "de president" : "cumhurbaşkanı" ,
+    "de president zijn" : "cumhurbaşkanının ",
+    "de kandidaat" : "adayı" ,
+    "jij bent kandidaat" : "adaysın" ,
+    "parlement" : "meclis",
+    "in het parlement" : "mecliste",
+    "overheid" : " hükümet",
+    "toestemming" : "izin" ,
+    "stadhuis" : "belediye" ,
+    "burgemeester" : "belediye başkanı",
+    "partij" : " parti" ,
+    "vrede" : "barış" ,
+    "leider" : "lider",
+    "de keuze" : "seçimi",
+    "jij antwoordt niet" :"cevap vermedin" ,
+    "corruptie" : "yolsuzluk" ,
+    "omkoping" : "rüşvet" ,
+    "de staat" : "devlet" ,
+    "openbare school" : "devlet okulu" ,
+    "privaat school" :"özel okulu",
+    "ik klaag niet aan" :"dava açmıyorum" ,
+    "beweringen/aantijgingen" : "iddiaları" ,
+    "omkopingsbeschuldigingen" : "rüşvet iddiaları" ,
+    "tegen": "hakkında " ,
+    "politicus": "politikacı",
+    "(de) gouverneur" :"vali(si)",
+    "legaal" : "hukuki" ,
+    "verklaring" : "açıklama" ,
+    "overheids(gebouw)" : "devlette" ,
+    "beveiliging" :"güvenliği" ,
+    "journalist":"gazeteci" ,
+
+    "wet" : "yasa" ,
+    "volgens de wet" : "yasaya göre" ,
+    "regel" : "kural" ,
+    "volgens de regels" : " kurallara göre" ,
+    "volgens" : "göre" ,
+    "de taak" :"görevi" ,
+
+
+    "ik kan uitleggen": "açıklayabilirim" ,
+    "hij kan uitleggen": "açıklayabilir" ,
+
+    "ik kan huilen" : "ağlayabilirim" ,
+    "hij kan huilen" : "ağlayabilir" ,
+    "je kan niet huilen" : "ağlayamazsın",
+
+    "ik kan niet begrijpen" : "anlayamıyorum",
+    "kan jij begrijpen?" : "anlayabiliyor musun?" ,
+
+    "ik kan niet reserveren" : "ayırtamadım",
+    "wij kunnen reserveren" : " ayırtabiliriz" ,
+    "kan je reserveren?" : "ayırtabilir misin?" ,
+
+
+    "kan je kijken?" : "bakabilir misin?",
+
+    "ik kan ertegen" : "dayanabilirim" ,
+    "jij kan ertegen" : "dayanabilirsin" ,
+    "ik kan er niet tegen" : "dayanamıyorum",
+
+
+    "ik kan veranderen": " değiştirebilirim" ,
+    "jij kan veranderen": " değiştirebilirsin" ,
+    "hij kan veranderen": " değiştirebilir" ,
+
+    "hij kan (ermee) omgaan" : "baş edebilir",
+    "we kunnen helpen" : "yardım edebiliriz" ,
+    "kunt u helpen?" : "yardım edebilir misiniz?",
+
+
+    "ik kan komen" : "gelebilirim",
+    "we konden komen" : "gelebilirdik",
+    "zij kunnen komen" : " gelebilirler" ,
+
+    "ik kan niet gaan" : "gidemem",
+    "hij kan gaan": " gidebilir" ,
+    "jij kan gaan": " gidebilirsin" ,
+
+    "ik kan zien" : "görebiliyorum" ,
+
+    "kan jij zien?" : "görebiliyor musun?" ,
+    "hij kan niet zien" : "göremez",
+
+    "ik kan niet lachen" : "gülemem",
+    "ik kan lachen": " gülebilirim" ,
+    "wij kunnen lachen": " gülebiliriz" ,
+
+    "ik kon niet herinneren" : "hatırlayamadım",
+    "jij kon niet herinneren" : "hatırlayamadın",
+
+    "ik kan klaarstaan" :"hazırlanabilirim" ,
+    "zorg dat je klaar staat" : " hazırlanabilir" ,
+    "hij kan niet klaar staan": "hazırlanamaz" ,
+
+
+    "ik kan drinken" : " içebilirim",
+    "ik kan niet drinken" : "içemem",
+
+    "je had weg kunnen rennen" :"kaçabilirdin",
+    "jij kan ontsnappen" : " kaçabilirsin" ,
+    "jij kon ontsnappen" : "kaçabildim",
+
+
+    "je had erbij moeten zijn" : "katılmalıydınız" ,
+
+    "ik kon spreken" : "konuşabildim",
+    "ik kan spreken" : "konuşabilirim",
+    "jij kon spreken" : "konuşabilirsin",
+    "ik kan niet spreken" : " konuşamam" ,
+
+    "ik kan niet redden" : "kurtaramam",
+    "je kunt niet redden" : "kurtaramazsın",
+    "we kunnen redden" : "kurtarabiliriz",
+    "zij kunnen redden" : "kurtarabilir",
+
+    "je zult niet ontsnappen": "kurtulamayacaksın" ,
+
+    "ik kan verkopen": "satabilirim" ,
+    "jij kan verkopen": "satabilirsin" ,
+    "jij kan niet verkopen" : "satamazsın" ,
+
+
+    "Ik had kunnen doen" :"yapabilirdim",
+    "jij kan doen" : "yapabilirsin" ,
+    "wij kunnen doen" : "yapabiliriz" ,
+
+    "hij kan niet doen" : "yapamaz" ,
+
+    "ik kan eten" : "yiyebilirim",
+    "ik kan niet eten" : "yiyemem" ,
+    "hij kan niet eten" : "yiyemez" ,
+
+
+    "kan je lopen?" : "yürüyebilir misin?" ,
+    "zij kunnen lopen" :" yürüyebilir",
+
+
+
+    "misschien" : "belki" ,
+
+    "alleen" : "yalnız" ,
+    "verkeerd" : "yanlış",
+    "dat" : "ki" ,
+    "zo" : "o kadar",
+    "per dag" : "günde",
+    "tot " : "kadar",
+
+    "niets" : "hiçbir şey",
+    "kimse" : "niemand",
+    "hic ":"nooit",
+    "hala":" nog",
+    "daha":" dan",
+    "bu kadar ":"zo",
+
+    "tenminste" :"en az" ,
+
+    "ik zou moeten stoppen" : "bırakmalıyım" ,
+
+    "je zou niet moeten haten" : "nefret etmemelisin " ,
+    "je moet voorzichtig zijn" : "dikkat etmelisin" ,
+    "je moet doorgaan": "devam etmelisin" ,
+
+
+    "je zou moeten nemen": "götürmelisin",
+    "hij zou moeten nemen" : "götürmeli",
+    "ik moet klaarmaken" : "hazırlamalıyım" ,
+    "hij moet klaarmaken" : "hazırlamalı" ,
+
+
+    "jullie hadden moeten erbij moeten zijn" : "katılmalıydınız",
+    "zij hadden erbij moeten zijn" : "katılmalı" ,
+    "jij zou erbij moeten zijn" :"katılmalısın" ,
+
+    "ik zou moeten zijn" : "olmalıyım" ,
+    "je zou moeten zijn" : "olmalısın" ,
+
+    "moet worden gearresteerd" : " tutuklanmalı" ,
+
+    "ik zou moeten doen" : "yapmalıyım" ,
+    "hij zou niet moeten doen": "yapmamalı" ,
+
+    "ik hoef niet" : "zorunda değilim",
+    "je hoeft niet" : "zorunda değilsin" ,
+    "je moet doen" : "yapmak zorundasın",
+    "we moesten" : "zorundaydık" ,
+    "we moeten" : "zorundayız"
+
+
+}

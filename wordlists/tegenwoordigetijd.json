@@ -1,77 +1,9 @@
 {
-    "ik haat" : "nefret ediyorum" ,
-    "ik zoek" : "arıyorum" ,
-    "jij zoekt" : "arıyorsun" ,
-    "hij begint" : "başlıyor" ,
 
-    "ken jij?" : "tanıyor musun" ,
-    "jij stapt uit" : " iniyorsun",
-    "ik breng jou" : "sana getiriyorum" ,
-    "jullie openen" : "açiyorsunuz" ,
-    "ik begrijp je" : "seni anlıyorum" ,
-    "ik bel" : "arıyorum" ,
-    "zij wonen" : "oturuyorlar" ,
-    "hij heeft nodig" : "gerekiyor",
-    "wij leven" : "yaşıyoruz",
+    "het is open" :" açık",
 
-    "Ik kijk": "Ben bakarım",
-    "Jij kijkt": "Sen bakarsın",
-    "Hij kijkt": "O bakar",
-    "Wij kijken": "Biz bakarız",
-    "Jullie kijken/U kijkt": "Siz bakarsınız",
-    "Zij kijken": "Onlar bakarlar",
 
-    "Ik weet": "Ben bilirim",
-    "Jij weet": "Sen bilirsin",
-    "Hij weet": "O bilir",
-    "Wij weten": "Biz biliriz",
-    "Jullie weten/U weet": "Siz bilirsiniz",
-    "Zij weten": "Onlar bilirler",
-
-    "Ik doe": "Ben yaparım",
-    "Jij doet": "Sen yaparsın",
-    "Hij doet": "O yapar",
-    "Wij doen": "Biz yaparız",
-    "Jullie doen/U doet": "Siz yaparsınız",
-    "Zij doen": "Onlar yaparlar",
-
-    "Ik ga": "Ben giderim",
-    "Jij gaat": "Sen gidersin",
-    "Hij gaat": "O gider",
-    "Wij gaan": "Biz gideriz",
-    "Jullie gaan/U gaat": "Siz gidersiniz",
-    "Zij gaan": "Onlar giderler",
-
-    "Ik begin": "Ben başlarım",
-    "Jij begint": "Sen başlarsın",
-    "Hij begint": "O başlar",
-    "Wij beginnen": "Biz başlarız",
-    "Jullie beginnen/U begint": "Siz başlarsınız",
-    "Zij beginnen": "Onlar başlarlar",
-
-   
-    "Ik werk": "Ben çalışırım",
-    "Jij werkt": "Sen çalışırsın",
-    "Hij werkt": "O çalışır",
-    "Wij werken": "Biz çalışırız",
-    "Jullie werken/U werkt": "Siz çalışırsınız",
-    "Zij werken": "Onlar çalışırlar",
-
-    "ik ben niet" : "değilim" ,
-
-    "Ik stop": "Ben durarım",
-    "Jij stopt": "Sen durursun",
-    "Hij stopt": "O durur",
-    "Wij stoppen": "Biz durarız",
-    "Jullie stoppen/U stopt": "Siz durursunuz",
-    "Zij stoppen": "Onlar dururlar",
-
-    "Ik zit": "Ben otururum",
-    "Jij zit": "Sen oturursun",
-    "Hij zit": "O oturur",
-    "Wij zitten": "Biz otururuz",
-    "Jullie zitten/U zit": "Siz oturursunuz",
-    "Zij zitten": "Onlar otururlar",
+    "het doet pijn": "ağrıyor",
 
     "Ik begrijp": "Ben anlarım",
     "Jij begrijpt": "Sen anlarsın",
@@ -80,19 +12,14 @@
     "Jullie begrijpen/U begrijpt": "Siz anlarsınız",
     "Zij begrijpen": "Onlar anlarlar",
 
-    "Ik zie": "Ben görürüm",
-    "Jij ziet": "Sen görürsün",
-    "Hij ziet": "O görür",
-    "Wij zien": "Biz görürüz",
-    "Jullie zien/U ziet": "Siz görürsünüz",
-    "Zij zien": "Onlar görürler",
+    "Ik haal": "Ben alırım",
+    "Jij haalt": "Sen alırsın",
+    "Hij haalt": "O alır",
+    "Wij halen": "Biz alırız",
+    "Jullie halen/U haalt": "Siz alırsınız",
+    "Zij halen": "Onlar alırlar",
 
-    "Ik sta op": "Ben kalkarım",
-    "Jij staat op": "Sen kalkarsın",
-    "Hij staat op": "O kalkar",
-    "Wij staan op": "Biz kalkarız",
-    "Jullie staan op/U staat op": "Siz kalkarsınız",
-    "Zij staan op": "Onlar kalkarlar",
+    "ik leg uit" :"anlatırım",
 
     "Ik bel": "Ben ararım",
     "Jij belt": "Sen ararsın",
@@ -101,12 +28,46 @@
     "Jullie bellen/U belt": "Siz ararsınız",
     "Zij bellen": "Onlar ararlar",
 
-    "Ik haal": "Ben alırım",
-    "Jij haalt": "Sen alırsın",
-    "Hij haalt": "O alır",
-    "Wij halen": "Biz alırız",
-    "Jullie halen/U haalt": "Siz alırsınız",
-    "Zij halen": "Onlar alırlar",
+
+
+
+    "Ik kijk": "Ben bakarım",
+    "Jij kijkt": "Sen bakarsın",
+    "Hij kijkt": "O bakar",
+    "Wij kijken": "Biz bakarız",
+    "Jullie kijken/U kijkt": "Siz bakarsınız",
+    "Zij kijken": "Onlar bakarlar",
+
+    "Ik begin": "Ben başlarım",
+    "Jij begint": "Sen başlarsın",
+    "Hij begint": "O başlar",
+    "Wij beginnen": "Biz başlarız",
+    "Jullie beginnen/U begint": "Siz başlarsınız",
+    "Zij beginnen": "Onlar başlarlar",
+
+    "ik hou van 2 " :"beğendim",
+
+
+    "Ik weet": "Ben bilirim",
+    "Jij weet": "Sen bilirsin",
+    "Hij weet": "O bilir",
+    "Wij weten": "Biz biliriz",
+    "Jullie weten/U weet": "Siz bilirsiniz",
+    "Zij weten": "Onlar bilirler",
+
+
+
+    "Ik werk": "Ben çalışırım",
+    "Jij werkt": "Sen çalışırsın",
+    "Hij werkt": "O çalışır",
+    "Wij werken": "Biz çalışırız",
+    "Jullie werken/U werkt": "Siz çalışırsınız",
+    "Zij werken": "Onlar çalışırlar",
+
+
+
+
+    "ik ben niet" : "değilim" ,
 
     "Ik verander": "Ben değişirim",
     "Jij verandert": "Sen değişirsin",
@@ -115,15 +76,165 @@
     "Jullie veranderen/U verandert": "Siz değişirsiniz",
     "Zij veranderen": "Onlar değişirler",
 
+    "ik zeg" : "derim" ,
+    "ik zeg niet" : "demem ",
+    "jij zegt" : "dersin" ,
+    "hij zegt niet" : "demez" ,
+    "zij zeggen" : "derler" ,
+
+
+    "ik steun" : "desteklerim",
+    "hij steunt" : "destekler",
+    "wij steunen" : "destekleriz",
+
+
+    "ik luister" :"dinlerim" ,
+    "hij luistert" : "dinler" ,
+
+    "Ik stop": "Ben durarım",
+    "Jij stopt": "Sen durursun",
+    "Hij stopt": "O durur",
+    "Wij stoppen": "Biz durarız",
+    "Jullie stoppen/U stopt": "Siz durursunuz",
+    "Zij stoppen": "Onlar dururlar",
+
+    "hij komt niet" : "gelmez" ,
+    "wij komen niet" : "gelmeyiz" ,
+    "zij komen niet" : "gelmezler" ,
+
+    "Ik ga": "Ben giderim",
+    "Jij gaat": "Sen gidersin",
+    "Hij gaat": "O gider",
+    "Wij gaan": "Biz gideriz",
+    "Jullie gaan/U gaat": "Siz gidersiniz",
+    "Zij gaan": "Onlar giderler",
+
+    
+    "ik ga niet" : "gitmem",
+    "wij gaan niet" : "gitmeyiz",
+
+    "ik show" : " gösteririm",
+    "jij showt" : " gösterirsin",
+
+
+    "Ik zie": "Ben görürüm",
+    "Jij ziet": "Sen görürsün",
+    "Hij ziet": "O görür",
+    "Wij zien": "Biz görürüz",
+    "Jullie zien/U ziet": "Siz görürsünüz",
+    "Zij zien": "Onlar görürler",
+
+    "ik ben ziek" : "hastayım" ,
+
+
+    "ik ben werkloos" : "ben işsizim" ,
+    "ik wil" : "isterim",
+    "ik wil niet" : "istemem" ,
+    "jullie willen" : "istersiniz" ,
+
+    "Ik sta op": "Ben kalkarım",
+    "Jij staat op": "Sen kalkarsın",
+    "Hij staat op": "O kalkar",
+    "Wij staan op": "Biz kalkarız",
+    "Jullie staan op/U staat op": "Siz kalkarsınız",
+    "Zij staan op": "Onlar kalkarlar",
+
+    "hij rent" :"O koşar",
+    "wij rennen" :"biz koşarız",
+    "jullie rennen" : "Siz koşarsınız",
+
+    "ik gebruik" :"kullanırım",
+    "ik gebruik niet" : "kullanmam",
+    "zij gebruikt" :"kullanır",
+    "hij gebruikt niet" : "kullanmaz",
+    "wij gebruiken niet" : "kullanmayız" ,
+
+    "ik ben beschikbaar" :"müsaitim" ,
+
+
+    "jij betaalt" : "ödersin" ,
+    "zij betaalt" : "O öder",
+    "zij betalen" : "onlar öderler",
+
+    "jij leest niet" : "okumazsın" ,
+    "hij leest niet" : "okumaz" ,
+
+    "hij hoestte" : "öksürdü",
+
+    "er is niet" : "olmaz",
+    "er gebeuren" : "olur",
+
+
+
+    "Ik zit": "Ben otururum",
+    "Jij zit": "Sen oturursun",
+    "Hij zit": "O oturur",
+    "Wij zitten": "Biz otururuz",
+    "Jullie zitten/U zit": "Siz oturursunuz",
+    "Zij zitten": "Onlar otururlar",
+
+    "ik speel" : "ben oynarım",
+    "wij spelen" : "biz oynarız",
+    "jullie spelen" : "oynarsınız" ,
+    "zij spelen" : "oynarlar",
+
+    "ik kook" : " pişiririm" ,
+    "ik kook niet" : "pişirmem",
+    "wij koken" : "pişiririz",
+    "zij koken" :" pişirirler",
+
+    "ik hou niet van" :"sevmem" ,
+    "ik hou van" : "severim" ,
+    "jij houdt van" : "seversin" ,
+    "zij houdt niet van" :"sevmez" ,
+    "zij houden van" : "sever" ,
+
+
     "Ik vraag": "Ben sorarım",
     "Jij vraagt": "Sen sorarsın",
     "Hij vraagt": "O sorar",
     "Wij vragen": "Biz sorarız",
     "Jullie vragen/U vraagt": "Siz sorarsınız",
-    "Zij vragen": "Onlar sorarlar"
+    "Zij vragen": "Onlar sorarlar" ,
+
+    "ken jij?" : "tanıyor musun" ,
+
+    "ik ontwerp" : "tasarlarım",
+    "jij ontwerpt" : "tasarlarsın",
+    "hij ontwerpt" : "tasarlar",
 
 
+    "ik hoop" :"umarım ",
 
+    "ik slaapt" : "uyurum",
+    "hij slaapt" : "uyur",
+    "zij slapen" : "uyurlar",
+
+    "jij bestaat" : "varsın" ,
+
+    "Ik doe" : "Ben yaparım",
+    "Jij doet": "Sen yaparsın",
+    "Hij doet": "O yapar",
+    "Wij doen": "Biz yaparız",
+    "Jullie doen/U doet": "Siz yaparsınız",
+    "Zij doen": "Onlar yaparlar",
+
+    "" : "",
+    "ik schrijf" :" yazarım",
+    "jij schrijft" :" yazarsın",
+    "wij schrijven" :" yazarız",
+    "Zij schrijven": "Onlar yazarlar",
+
+    "ik eet niet" :"yemem" ,
+
+    "ik loop" : "Ben yürürüm",
+    "loop jij?" : "yürür müsünüz?" ,
+    "hij loopt" : "o yürür",
+    "wij lopen" : "biz yürürüz",
+
+    "ik zwem" : "yüzerim" ,
+    "hij zwemt" : "yüzer" ,
+    "wij zwemmen" : "yüzeriz"
 
 
 

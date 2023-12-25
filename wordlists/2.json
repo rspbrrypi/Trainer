@@ -1,0 +1,261 @@
+{
+
+    "de mijne" :" benimki" ,
+    "dan van jou" :"seninkinden" ,
+    "de zijne" :" onunki" ,
+    "de onze" : "bizimki" ,
+    "dat van jullie" :"sizinki" ,
+    "de hunne" :"onlarınki" ,
+
+    "voorbij" :"ilerideki" ,
+    "gelukkige verjaardag" :"İyi ki doğdun!" ,
+    "die daar zijn" :"oradaki" ,
+    "in de fles" :"şişedeki" ,
+    "dat is in het ziekenhuis" :"hastanedeki" ,
+    "(degene) in het park" :"parktaki" ,
+    "dat wat in Turkije is" : "Türkiye'deki",
+    "vorige" : "Önceki" ,
+    "volgende" : "sonraki" ,
+    "dat van gisteren" :"dünkü" ,
+
+    "mezelf" :"kendimi" ,
+    "jouzelf" : "kendin" ,
+    "hemzelf":"kendini    " ,
+    "onszelf":"kendimiz",
+    "julliezelf/ uzelf" :"kendinizi   ",
+    "henzelf" : "kendileri",
+    "elkaar" : " birbirimizi",
+
+    "het (produkt) zelf" : "kendisi" ,
+    "doe voorzichtig" : "Kendine iyi bak!" ,
+    "kijk naar je eigen zaak" : "sen kendi işine bak" ,
+
+    "onzin praten" : "bos konuşmak" ,
+    "wat betekent ...?" : "... ne demek?" ,
+
+    "er is geen probleem":"sorun yok ders" ,
+    "liefde" : "aşk" ,
+    "liefde 2" : "sevgi" ,
+    "(het is) alsof" : "gibidir" ,
+    "mijn leven" : "hayatım " ,
+    "leven" : "canı" ,
+    "gevoel" : "duygu" ,
+    "type": " tür" ,
+    "dit type" : "bu tip" ,
+    "service" : " hizmet" ,
+    "ideeen" : "fikirler" ,
+    "zijn mening" : "bakışını" ,
+    "jouw mening" : "düşüncen",
+    "onze meningen" : "görüşlerimiz " ,
+    "jouw mening 1" : " fikrin " ,
+    "ideeen/opinies/gedachten" : "düşünceler" ,
+    "de situatie/conditie" : "durum" ,
+    "op de lijst" : "listede",
+    "naam" : "adı",
+    "hulp" : "yardım" ,
+    "veranderingen" : "değişiklik",
+    "opdracht" : "emir",
+    "opdracht 2" : "emri",
+    "de kracht" : "gücü",
+    "kracht/macht" : "güçtür" ,
+    "de smaak" : " tadı",
+    "smaak" : " tat",
+    "crisis" : "kriz " ,
+    "incident" :"olayı " ,
+
+    "respect" : "saygı",
+    "het nieuws" : "haber(leri)",
+    "het resultaat van" :"sonucunu " ,
+    "resultaat" :"sonuç " ,
+
+
+    "ik heb zin om" :"canım istiyor",
+    "in dit geval" : "bu durumda",
+    "eten en drinken":"yeme içme",
+
+    "leugenaar" : "yalancı" ,
+    "studeren" : "ders çalışmayı ",
+    "het werken" : "çalışmayı ",
+    "het doen" : "yapmayı ",
+    "het komen" : "gelmesi" ,
+    "het geven" : "vermeyi" ,
+    "het zitten" : "oturmayı" ,
+    "het dansen" : "dans etmeyi" ,
+    "wij hebben plezier" : "eğlenmemiz",
+    "plezier hebben" : "eğlenmeyi" ,
+
+    "dat jij haat" : "nefret etmeni" ,
+    "dat je wakker wordt" : "uyanmanı" ,
+    "dat je niet wakker wordt": "uyanmaman",
+
+    "dat ik luister" : "dinlememi" ,
+    "dat ik luistert/rust" : "dinlemem",
+    "dat je luistert/rust" : "dinlemen",
+
+
+    "dat je komt" :"gelmen",
+
+    "dat je kijkt" :"bakmanı",
+
+    "dat ze wacht" :  "beklemesini",
+    "dat hij rust" : "dinlenmesini" ,
+
+    "dat ze wachten" : "beklemeleri",
+
+    "ik zal laten gaan" : "gitmesine izin vereceğim",
+
+    "ik moet schrijven" : "yazmam lazım",
+    "ik moet drinken" : "içmem lazım" ,
+    "ik moet gaan" : "gitmem lazım" ,
+    "Ik moet wakker worden": "uyanmam lazım",
+
+    "jij moet lezen" : "okuman lazım",
+    "je moet geven" : "vermen lazım" ,
+    "je moet maken" : "yapman lazım" ,
+    "je moet rusten" : "dinlenmen lazım" ,
+    "jij moet schrijven" : "yazman lazım",
+
+    "hij moet geven" : "vermesi lazım" ,
+    "hij moet komen" : "gelmesi lazım" ,
+
+    "voordat" : "önce" ,
+    "ook al" :"rağmen",
+    "huiskamer":"oturma odası" ,
+    "hij ging naar bed": "yatmasına",
+    "ik heb geen idee" : "hiçbir fikrim yok" ,
+    "alles is onder controle" :"durum kontrol altında" ,
+    "de uitslagen" :"sonuçları",
+    "de uitslag van" : "sonucunu" ,
+    "hij verandert" : "O değiştirir" ,
+
+    "droog" : "kuru" ,
+
+    "helder" : "açıkça" ,
+    "snel" : "çabuk" ,
+    "haast je!" : "çabuk ol!" ,
+    "makkelijk" : "rahat rahat " ,
+    "relax!" : "rahat ol!" ,
+    "comfortabel" : "rahatça" ,
+
+    "laat" : "geç " ,
+    "attentie!" : "dikkat!" ,
+    "voorzichtig" : "dikkatlice" ,
+    "langzaam" : "ağır ağır",
+    "snel 2" : "hızlıca " ,
+
+    "langzaam 2" : "yavaş " ,
+    "gemakkelijk" : "kolayca" ,
+
+    "mijn bril" : "gözlüklerim" ,
+
+    "hij informeerde  niet" : "haber vermedi" ,
+    "vond mooi" :" hoşuna gitti",
+    "mijn werk" : "işim",
+
+    "zijn temperatuur": "ateşi",
+    "hij heeft koorts" : "ateşi var" ,
+    "daalde": "düştü",
+    "gezond": "sağlıklı",
+    "gezondheid": "sağlık",
+    "pijn": " ağrı ",
+    "mijn pijn": " ağrım",
+    "ik heb pijn" : "canım acıyor!" ,
+
+    "(mijn) medicijn" : "ilaç(ım) " ,
+
+    "bloed" : "kan" ,
+    "he is bleeding" : " kanaması " ,
+    "ziekte" : "hastalık" ,
+    "patient" : "hasta" ,
+    "leidt tot" : " neden olur" ,
+
+    "mijn rugzak" : "sırt çantam",
+    "jouw tas" : "çantan",
+    "spoed(kamer)" : "acil",
+    "een spoedgeval" : "acil bir durum",
+    "ambulance" : "ambulans ",
+    "behandeling" : "tedavi",
+    "operatie" : "ameliyatı ",
+    "hij zorgde voor" : "ilgilendi",
+
+    "ik voel" : "hissediyorum",
+    "ik voel niet" : "hissetmiyorum",
+    "jij voelt" : "hissediyorsun",
+
+    "het doet pijn": "ağrıyor",
+
+    "mijn lichaam": "vücudum",
+    "op je gezicht" : "yüzünde ",
+    "mond" : "ağız",
+    "mijn mond" : "ağzım" ,
+    "in mijn mond" : "ağzımda" ,
+
+    "mijn oog": "gözümde ",
+    "oog": "göz",
+    "(mijn) hand": "el(im)",
+    "(zijn) voet(en)" : "ayak(ları)",
+    "de voet" : "ayağı" ,
+    "tand" : "diş" ,
+    "mijn tand" : "dişim" ,
+    "tanden" : "dişler",
+    "de tanden van" :"dişleri",
+    "mijn hoofd": "başım",
+    "jouw hoofd" : "başın",
+    "oor" : "kulak",
+    "mijn oor" : "kulağım",
+    "zijn oren" :"kulakları " ,
+    "hart" : "kalp",
+    "mijn hart" : "kalnim",
+
+    "huid" :"cilt" ,
+    "je huid" : "cildin",
+    "uw huid" : "cildiniz",
+    "mijn huid" : "cildimi ",
+
+    "rug" : "sırt",
+    "neus" : "burun",
+    "mijn neus" : "burnum",
+    "jouw neus" : "burnun",
+    "mijn keel" : "boğazım",
+
+    "nek" : "boyun",
+    "jouw nek ":"boynun",
+
+    "hoogte" : "boy" ,
+    "mijn lengte" : "boyum" ,
+
+    "hoelang ben je?" : "boyun kaç?",
+    "jouw gewicht" : "kilonuz",
+    "hoeveel weeg je?" : "kaç kilosun?",
+
+    "haar" : "saçı",
+    "zijn haren" : "saçları ",
+    "jouw haren" : "saçların ",
+
+    "het brak" : "kırıldı",
+    "overgeven" : "kusmaya ",
+    "zij geeft over" : "kusuyor",
+
+    "ik ben gewond" : "yaralandım",
+    "help mij!" : "bana yardım et!" ,
+    "tijdens het ongeluk" : " kazada" ,
+    "het is gebroken" : "kırıldı" ,
+    "(jouw) wond/ snee" : "yara(n)" ,
+    "raakte je gewond?": "yaralandın mı" ,
+    "ik ben ziek" : "hastayım" ,
+
+    "mijn aanvallen" : "nöbetlerim",
+    "hij hoestte" : "öksürdü",
+    " ik hoest" : "öksürüyorum",
+    "hij loopt(neus)" : "akıyor",
+
+    "kanker" : " kanseri " ,
+    "niet ziek worden" : "hastalanmamak " ,
+
+    "training" : "eğitimi",
+    "zodra ... ga/gaat/gaan" :"gider gitmez" ,
+    "zodra ... kookt " :" pişirir pişirmez" ,
+
+    "ik zeg geen nee" : "hayir demem ",
+    "in de maand van" : "ayında"
+}

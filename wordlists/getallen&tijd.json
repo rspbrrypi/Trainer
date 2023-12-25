@@ -38,7 +38,16 @@
     "weekdagen" : "hafta içi" ,
     "weekend" : "hafta sonu" ,
     "gisterennacht" : "dün gece" ,
-    "vorig jaar" : "geçen yıl"
+    "vorig jaar" : "geçen yıl",
+    "verleden tijd" : "geçmiş zaman" ,
+    "nu/ presentcontinious" : "şimdiki zaman" ,
+    "toekomende tijd" : "gelecek zaman",
+    "gisterenavond" : "geçen akşamki " ,
+    "dat van morgen" : "yarinki" ,
+    "de toekomst" : "geleceği",
+    "in de toekomst" :"gelecekte",
+    "het aantal" : "sayısı"
+
 
 
 }

@@ -1,10 +1,15 @@
 {
-
+    "ik open" : "açıyorum" ,
+    "ik klaag niet aan" : "dava açmıyorum",
     "wij openen niet" : "açmıyoruz",
     "jullie openen" : "açıyorsunuz",
 
+    "het doet zeer" : "ağrıyor" ,
+
+    "hij passeert" : "akıyor",
 
     "ik begrijp" : "anlıyorum" ,
+    "ik begrijp je" : "seni anlıyorum" ,
     "hij begrijpt" : "anlıyor",
     "hij begrijpt niet" : "anlamıyor" ,
 
@@ -12,64 +17,170 @@
     "jij legt uit" : "anlatıyorsun",
 
     "ik ben aan het bellen" : "arıyorum",
+    "ik zoek" : "arıyorum" ,
+    "jij zoekt" : "arıyorsun" ,
     "zij zijn aan het kijken/ zoeken naar" : "arıyorlar" ,
 
+    "ik kijk" : "bakıyorum" ,
+
+    "ik begin" : "başlıyorum" ,
+    "hij begint" : "başlıyor" ,
     "hij begint niet" : "başlamıyor" ,
 
-    "hij eindigt" :"bitiyor" ,
-    "hij eindigt niet" : "bitmiyor" ,
+    "ik wacht" : "ben bekliyorum" ,
+    "jij wacht" : "bekliyorsun" ,
+
 
     "hij lijkt op" : "benziyor",
 
+    "ik weet" : "ben biliyorum" ,
+    "ik weet niet" : "ben bilmiyorum" ,
+
+    "ik eindig" :"bitiriyorum" ,
+    "hij eindigt" :"bitiyor" ,
+    "hij eindigt niet" : "bitmiyor" ,
+
+    "ik vind" : "ben buluyorum" ,
+
+    "ik ben aan het spelen/stelen" : "ben çalıyorum" ,
+
+    "ik ben aan het werk/ studeren" : "çalışıyorum" ,
+    "jij bent aan het werk" : "çalışıyorsun" ,
     "ik werk niet" : "çalışmıyorum" ,
     "wij zijn niet aan het werken" : "çalışmıyoruz" ,
     "zij zijn aan het werken" : "çalışıyorlar",
 
 
-    "ik neem" : "çekiyorum" ,
+    "ik neem (foto)" : "çekiyorum" ,
     "jullie nemen" : "çekiyorsunuz" ,
+
+    "ik zeg" : "ben diyorum" ,
 
     "hij draait niet" : "dönmüyor" ,
     "we draaien" : "dönüyoruz",
 
     "ik sta" : "duruyorum" ,
     "jij staat" : "duruyorsun" ,
-    "hij staat" : " duruyor" ,
+    "hij staat/ ziet eruit" : " duruyor" ,
+
+    "ik denk" : "düşünüyorum" ,
+    "jij denkt" : "düşünüyorsun" ,
+
+    "we respecteren" :"saygı duyuyoruz" ,
+
+    "ik haat" : "nefret ediyorum" ,
+    "ik help" : "yardım ediyorum" ,
+    "jullie haten" : "nefret ediyorsunuz" ,
+
+
+    "het gaat voorbij" : "geçiyor" ,
+
+    "ik heb" : "geçiriyorum",
+    "hij heeft" : "geçiriyor",
+
+    "kom jij?" : "geliyor musun?" ,
+    "ik kom" : "ben geliyorum" ,
+
+    "hij heeft nodig" : "gerekiyor",
 
     "ik breng" : "getiriyorum" ,
+    "ik breng jou" : "sana getiriyorum" ,
     "hij brengt" : "getiriyor" ,
+
+    "ik ben aan het bezoeken" : " geziyorum",
+
+    "ik ga" : "ben gidiyorum" ,
 
     "hij betreedt" : "giriyor",
     "hij komt niet in" : "girmiyor",
 
 
-    "ik spreek niet" : " konuşmuyorum",
-    "hij spreekt niet" : "konuşmiyor",
+
+    "ik zie": "ben görüyorum" ,
+    "wij zien niet": "görmuyoruz" ,
+    "ik ben aan het lachen" : "gülüyorum" ,
+
+    "ik voel niet" : "hissetmiyorum",
+    "ik ben aan het drinken" : "ben içiyorum" ,
+
+    "hij verzorgt" : "ilgileniyor" ,
+
+    "jij stapt uit" : " iniyorsun",
+
+    "ik wil" : "ben istiyorum" ,
+    "hij wil" : "istiyor" ,
+
+    "ik ben aan het kijken" : "ben izliyorum" ,
+
+    "ik sluit/ doe uit" : "ben kapatıyorum" ,
+    "ik praat" : "ben konuşuyorum" ,
+    "ik praat niet" : " konuşmuyorum",
+    "hij praat niet" : "konuşmiyor",
+    "jij bent aan het praten" : "konuşuyorsun",
     "hij is aan het praten" : "konuşuyor",
 
     "ik ben bang" : "korkuyorum" ,
     "hij is niet bang" : "korkmuyor" ,
 
+    "hij geeft over" : "kusuyor" ,
+
+    "ik ben aan het lesgeven" :"öğretiyorum",
+    "wij zijn aan het lesgeven" :"öğretiyoruz",
+
+    "ij bent aan het leren" : "öğreniyorsun" ,
+
+    "hij is aan het lesgeven" :"öğretiyor",
+
+    "ik ben aan het hoesten" : "öksürüyorum",
+    "ik lees / studeer" : "ben okuyorum" ,
+    "hij leest / studeert" : "okuyor" ,
+
+    "ik ben" : "ben oluyorum" ,
+
+    "ik woon" : "oturuyorum" ,
+    "jij woont/zit": "oturuyorsun",
     "hij woont" : "oturuyor" ,
     "hij woont/zit/leeft niet" : "oturmuyor",
     "wij wonen" : "oturuyoruz" ,
+    "zij wonen" : "oturuyorlar" ,
 
 
 
-    "is aan het lesgeven" :"öğretiyor",
+    "ik speel" : "ben oynuyorum",
 
+    "ik plan" : "ben planlıyorum" ,
+
+    "ik hou van" : "ben seviyorum" ,
+    "houden jullie van?" : "seviyor musunuz?" ,
+
+    "ik vraag" : "soruyorum" ,
     "hij vraagt" : "soruyor" ,
     "we vragen niet" : "sormuyoruz",
 
-    "wij houden" : "tutuyoruz" ,
+    "ik zeg 2" : "ben söylüyorum" ,
 
-    "ik geef" : "veriyorum" ,
+    "wij houden" : "tutuyoruz" ,
+    "ik vergeet" : "ben unutuyorum" ,
+    "hij slaapt" :"uyuyor" ,
+    "ik geef" : "ben veriyorum" ,
     "jij geeft niet" : "vermiyorsun" ,
     "jullie geven" : "veriyorsunuz" ,
     "zij geven" : "veriyorlar",
 
+    "ik maak" : "yapıyorum" ,
+    "jij maakt" : "yapıyorsun" ,
+
     "hij leeft" : "yaşıyor" ,
-    "jij leeft" : "yaşıyorsun"
+
+    "jij leeft" : "yaşıyorsun" ,
+    "wij leven" : "yaşıyoruz",
+    "zij leven niet" : "yaşamıyor",
+
+    "ik ga liggen" : "ben yatıyorum" ,
+
+    "ik eet" : "ben yiyorum",
+    "zij eten" : "yiyor"
+
 
 
 }

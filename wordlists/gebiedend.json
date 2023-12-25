@@ -1,22 +1,38 @@
 {
     "Open!": "Aç!",
     "pak!" : "al!",
+    "krijg toestemming" : "izin al!" ,
     "Bel!": "Ara!",
     "kijk!" : "bak!" ,
     "Begin!": "Başla!",
+    "haast je!" : "Çabuk ol!" ,
     "Werk!": "Çalış!",
-
+    "go out" : "çık!" ,
+    "voorzichtig!" : "dikkat!",
+    "wees voorzichtig!" : "dikkatli ol!",
     "draai!" : "dön!" ,
     "Stop!": "Durdur!",
     "Ga!": "Git!",
+    "ga niet!" : "gitme",
     "stap uit!" : "In!",
+
     "wees serieus!"  : "ciddi ol!",
-    "Sta op!": "Kalk!",
+    "Sta op!": "kalk!",
+    "sluit/doe uit!" : "kapat!" ,
+    "wees niet bang!" : "korkma! ",
+    "ren!" : "koş!" ,
+    "gebruik!" : "kullan!",
     "Zit!": "Otur!",
 
+    "relax!" : "rahat ol!" ,
     "Vraag!": "Sor!",
-    "Eet!" :  "Ye!",
-    "Doe!": "Yap!"
+    "Tut!" : "hou!" ,
+    "laat me!": "izin ver!",
+    "stem!" : "Oy ver!",
+    "Eet!" :  "ye!",
+    "Eet niet!" : "yeme!" ,
+    "Doe!": "Yap!",
+    "loop!" : "yürü!"
 
 
 

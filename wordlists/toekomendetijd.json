@@ -1,32 +1,55 @@
 {
+    "ik zal openen" : "açacağım" ,
     "zullen we kopen" : "alalım" ,
 
+    "ik zal begrijpen" : "anlayacağım" ,
+
+    "ik zal uitleggen" : "anlatacağım" ,
+
     "ik zal kijken" : "bakacağım" ,
+    "jij zal kijken" : "sen bakacaksın." ,
     "zij zullen kijken" : "bakacaklar" ,
 
+    "ik zal beginnen" : "başlayacağim",
+    "ik zal niet beginnen" : "başlamayacağim",
     "hij zal niet beginnen" : "başlamayacak",
 
     "ik zal wachten" : "bekleyeceğim",
     "hij zal wachten" : "bekleyecek",
 
+    "ik zal weten" :"ben bileceğim" ,
     "jij zal weten" : "bileceksin",
     "zij zullen weten" : "bilecekler" ,
 
+    "ik zal eindigen" : "bitireceğim",
     "hij zal eindigen" : "bitecek",
+
+    "ik zal vinden" :"ben bulacağim" ,
+
+    "ik zal spelen/stelen" :"ben çalacağım",
 
     "ik zal werken" :"çalışacağım",
     "wij zullen werken" :"çalışacağız",
     "zij zullen niet werken" : "çalışmayacak",
 
+    "ik zal nemen (foto)" : "çekeceğim",
+
     "ik zal veranderen" : "değiştireceğim",
     "hij zal veranderen" : "değişecek",
+    "wij zullen veranderen" : "biz değiştireceğiz",
 
+    "ik zal zeggen 1" : "ben diyeceğim" ,
 
+    "ik zal denken" : "ben düşüneceğim",
 
-    "ik zal komen" : "geleceğim",
-    "zul je komen?" : "gidecek misin?",
+    "ik zal helpen" : "ben yardım edeceğim" ,
+
+    "ik zal komen" : "ben geleceğim",
     "hij zal niet komen" : "gelmeyecek",
+    "zij zullen komen" : "gelecekler",
 
+    "ik zal gaan" : "ben gideceğim" ,
+    "zul je gaan?" : "gidecek misin?",
     "zullen we gaan" : "gidelim" ,
     "jij zal gaan" : "gideceksin",
     "zal jij gaan?" : "gidecek?",
@@ -35,25 +58,28 @@
 
     "ik zal zien" : "göreceğim" ,
     "jij zal zien" : " göreceksin" ,
+    "ik zal lachen" : "güleceğim" ,
 
     "ik zal willen" : "isteyeceğim",
     "hij zal willen" : " isteyecek",
 
-    "ik zal drinken" : "içeceğim" ,
+    "ik zal drinken" : "ben içeceğim" ,
     "wij zullen drinken" : "içeceğiz" ,
     "laten we drinken" : "içelim" ,
 
-
+    "ik zal kijken 2" : "ben izleyeceğim" ,
     "ik zal winnen" : "kazanacağım" ,
 
     "hij zal vertrekken" : "kalkacak",
     "zij zullen opstaan" : "kalkacaklar" ,
+    "ik zal sluiten" : "kapatacağım",
 
     "ik zal praten" :"konuşacağım",
     "zij zal praten" : "konuşacak" ,
     "zullen we praten?" : "konuşalım?" ,
 
     "werd gevestigd" : "kurdu",
+    "ik zal onderwijzen" :"ben öğreteceğım" ,
 
     "ik zal zijn" : "olacağım",
     "hij zal zijn" : "olacak",
@@ -63,30 +89,47 @@
     "zullen we lezen?" : "okuyalım?" ,
     "zij zullen lezen" : "okuyacaklar",
 
+
+    "ik zal zitten" : "oturacağım" ,
     "zij zullen zitten" : "oturacak" ,
+    "wij zullen zitten" : "oturacağız" ,
+    "ik zal spelen" :"ben oynayacağım" ,
+    "ik zal plannen" : "ben planlayacağım" ,
+
+    "ik zal houden van" :"ben seveceğim" ,
+
+    "ik zal vragen" : "ben soracağım" ,
 
     "ik zal zeggen" : "söyleyeceğim",
+    "ik zal niet zeggen" : "söylemeyeceğim",
     "jij zal zeggen" : "söyleyeceksin",
 
     "hij zal presenteren": "sunacak" ,
 
+    "hij zou moeten worden gearresteerd":" tutuklanmalı!",
+    "zij zullen worden gearresteerd" : "tutuklanacak" ,
 
-
+    "ik zal vergeten" : "unutacağım",
     "ik zal niet vergeten" : "unutmayacağım",
+
     "zij zal niet slapen" : "uyumayacak" ,
     "het spijt mij" : "üzgünüm" ,
 
     "ik zal geven" : "vereceğim",
+    "ik zal informeren" : "haber vereceğim" ,
     "ik zal jou niet geven" : "vermeyeceğim" ,
-
+    "hij zal geven" : "verecek",
     "zal jij geven?" : "verecek misin?" ,
     "wij zullen geven" : "vereceğiz",
 
     "wat zullen we doen?": " yapalım",
+    "zullen wij doen?" : "yapalım mı?" ,
     "ik zal maken" : "yapacağım",
     "zij zullen doen" : "yapacaklar" ,
 
+    "ik zal liggen" : "yatacağım",
 
+    "ik zal eten" : "yiyeceğım",
     "hij zal eten" : "yiyecek",
     "zullen we eten?" : "yiyelim?" ,
     "wij zullen eten" : "yiyeceğiz" ,
