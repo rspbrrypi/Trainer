@@ -33,6 +33,7 @@ box {
     font-weight: bolder;
     font-size: x-large;
     word-wrap: break-word;
+    display: inline-block;
 }
 
 select {
@@ -182,6 +183,7 @@ footer {
         font-weight: bold;
         font-size: x-large;
         word-wrap: break-word;
+        display: inline-block;
     }
   }
 
@@ -196,5 +198,6 @@ footer {
       font-weight: bold;
       font-size: x-large;
       word-wrap: break-word;
+      display: inline-block;
     }
   }
