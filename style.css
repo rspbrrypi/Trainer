@@ -32,6 +32,7 @@ box {
     margin: 20px;
     font-weight: bolder;
     font-size: x-large;
+    word-wrap: break-word;
 }
 
 select {
@@ -168,6 +169,7 @@ footer {
         margin: 5px;
         font-weight: bold;
         font-size: x-large;
+        word-wrap: break-word;
     }
   }
 
@@ -179,6 +181,7 @@ footer {
         margin: 5px;
         font-weight: bold;
         font-size: x-large;
+        word-wrap: break-word;
     }
   }
 
@@ -192,5 +195,6 @@ footer {
       margin: 15px;
       font-weight: bold;
       font-size: x-large;
+      word-wrap: break-word;
     }
   }
