@@ -167,27 +167,29 @@ footer {
 @media screen and (max-width: 300px) {
 
     box {
-        max-width: 200px;
+        width: 280px;
+        height: 93px;
         padding: 10px;
         margin: 5px;
         font-weight: bold;
         font-size: x-large;
-        inline-size: 180px;
+        inline-size: 260px;
         overflow-wrap: break-word;
         hyphens: auto;
         
     }
   }
 
-  @media screen and (max-width: 480px) {
+  @media screen and (max-width: 420px) {
 
     box {
-        max-width: 250px;
+        width: 380px;
+        height: 126px;
         padding: 10px;
         margin: 5px;
         font-weight: bold;
         font-size: x-large;
-        inline-size: 230px;
+        inline-size: 360px;
         overflow-wrap: break-word;
         hyphens: auto;
        
@@ -196,17 +198,4 @@ footer {
 
 
 
-  @media screen and (max-width: 600px) {
-
-    box {
-      width: 300px;
-      padding: 15px;
-      margin: 15px;
-      font-weight: bold;
-      font-size: x-large;
-      inline-size: 270px;
-      overflow-wrap: break-word;
-      hyphens: auto;
-      
-    }
-  }
+  
