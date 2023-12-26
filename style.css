@@ -197,21 +197,3 @@ footer {
   }
 
 
- @media (prefers-color-scheme: dark) {
-    body {
-      background: #000;
-    }
-    h1{
-      color: pink;
-    }
-    
-  }
-  @media (prefers-color-scheme: light) {
-    body {
-      background: #fff;
-    }
-
-  }
-
-
-  
